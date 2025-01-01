@@ -17,4 +17,4 @@
 
 ## 🌟 Live Website
 
-**Link:** [Personal-portfolio](https://trinetra110.github.io/MediTrack/)
+**Link:** [MediTrack](https://trinetra110.github.io/MediTrack/)
