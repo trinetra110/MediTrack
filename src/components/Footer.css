@@ -1,0 +1,30 @@
+.footer {
+  background-color: #023047;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.footer-column {
+  margin: 0 1rem;
+}
+
+.footer-icons > * {
+  margin: 0 0.5rem;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.footer-icons > *:hover {
+  transform: scale(1.2);
+}
